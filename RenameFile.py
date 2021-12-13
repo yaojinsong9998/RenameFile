@@ -1,9 +1,9 @@
 import os
 
-path = "D:"#文件路径
+path = "D:\\ceshi\\"#文件路径
 
-originalname = '' #指定字符
-replacename = ''  #替换字符
+originalname = 'Action' #指定字符
+replacename = 'Controller'  #替换字符
 
 
 def rename_file(filepath):
